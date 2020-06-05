@@ -16,7 +16,6 @@
 
 - [Node.js](https://nodejs.org)
 - [express](https://expressjs.com/)
-- [nodemon](https://nodemon.io/)
 - [cors](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Controle_Acesso_CORS)
 - [knex](http://knexjs.org/)
 - [jest](https://jestjs.io/)
